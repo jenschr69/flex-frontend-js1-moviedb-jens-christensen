@@ -1,7 +1,0 @@
-# flex-frontend-js1-moviedb-jens-christensen
-
-Krav till projektet:
-- Användning av CSS ramvärk annat än BootStrap: CSS Tailwind
-- Användning av min ett JavaScript Ramvärk: jQuery
-
-Online demo: https://grit.jenschrchristensen.com/js1/moviedb
